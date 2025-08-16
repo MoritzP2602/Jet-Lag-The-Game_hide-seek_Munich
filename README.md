@@ -1,6 +1,6 @@
 # Jet Lag: The Game - Hide and Seek Map for Munich
 
-This repository contains a custom Hide & Seek map of Munich for the home game.
+This repository contains a custom Hide & Seek map of Munich for the home game, using the U-Bahn and Tram network.
 
 The map was created using this excellent guide: https://julweb.dev/blog/create-your-own-jetlag-map-with-qgis, which provides clear instructions on how to build your own Jet Lag maps with QGIS.
 
